@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error related to null or undefined values. The `printName` function attempts to access the `toUpperCase()` method of a potentially null string, causing a runtime error.  The solution showcases how to safely handle null values using optional chaining or nullish coalescing.
